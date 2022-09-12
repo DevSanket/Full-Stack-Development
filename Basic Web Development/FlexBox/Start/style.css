@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+    border: 2px solid black;
+    /* flex-direction: column; */
+    /* flex-direction: row-reverse; */
+    flex-direction: column-reverse;
+}
